@@ -1,0 +1,17 @@
+{
+  "name": "testing_with_nw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^87.0.0",
+    "geckodriver": "^1.21.0",
+    "nightwatch": "^1.5.1"
+  }
+}
