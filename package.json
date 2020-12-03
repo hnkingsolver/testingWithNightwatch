@@ -1,7 +1,6 @@
 {
   "name": "testing_with_nw",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,18 @@
     "chromedriver": "^87.0.0",
     "geckodriver": "^1.21.0",
     "nightwatch": "^1.5.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnkingsolver/testingWithNightwatch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hnkingsolver/testingWithNightwatch/issues"
+  },
+  "homepage": "https://github.com/hnkingsolver/testingWithNightwatch#readme",
+  "description": ""
 }
